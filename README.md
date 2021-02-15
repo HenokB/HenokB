@@ -10,7 +10,7 @@
 #### I'm also here
 <p align="center">
 
-  [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+  <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href = "https://www.linkedin.com/in/henok-ademtew-7729b2183/"/>
   [<img height="30" src = "https://github.com/HenokB/HenokB/blob/main/he.png">][HackerEarth]
   [<img height="30" src = "https://github.com/HenokB/HenokB/blob/main/hr.png">][HackerRank]
 
