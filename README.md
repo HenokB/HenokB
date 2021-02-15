@@ -1,5 +1,4 @@
 # ሰላም | Hello there 👋. This is Henok Biadglign Ademtew
-<img src="https://media.giphy.com/media/o65WgXSDBVY1G/giphy.gif" alt="welcome">
 
 ### I just like 0s and 1s.
 
