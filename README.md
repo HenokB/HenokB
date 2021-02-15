@@ -17,12 +17,12 @@
 ### Tools I am using right now:
 
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/HenokB/Henok/main/vscode.png" />
-<img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/HenokB/Henok/main/jupyter.png" />
-<img align="left" alt="js" width="26px" src="https://raw.githubusercontent.com/HenokB/Henok/main/js.png" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/HenokB/Henok/main/cpp.png" />
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/HenokB/Henok/main/python.png" />
-<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/HenokB/Henok/main/git.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/HenokB/HenokB/main/vscode.png" />
+<img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/HenokB/HenokB/main/jupyter.png" />
+<img align="left" alt="js" width="26px" src="https://raw.githubusercontent.com/HenokB/HenokB/main/js.png" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/HenokB/HenokB/main/cpp.png" />
+<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/HenokB/HenokB/main/python.png" />
+<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/HenokB/HenokB/main/git.png" />
 
 <br/>
 
