@@ -1,5 +1,5 @@
-![gif from giphy.com](https://media.giphy.com/media/o65WgXSDBVY1G/giphy.gifraw=true)
 # ሰላም | Hello there 👋. This is Henok Biadglign Ademtew
+<img src="https://media.giphy.com/media/o65WgXSDBVY1G/giphy.gif" alt="welcome">
 
 ### I just like 0s and 1s.
 
@@ -9,13 +9,7 @@
 - ⚡ Fun fact: I'm comprising a serious of notes on quantum chromodynamics
 
 
-### I'm also here:
 
-<a href="https://hackerrank.com/HenokB"><img align="left" alt="Visual Studio Code" " width="26px" src="https://raw.githubusercontent.com/HenokB/HenokB/main/he.pn" /></a>
-<a href="https://hackerearth.com/henokb2124"><img align="left" " width="26px" src="https://raw.githubusercontent.com/HenokB/HenokB/main/he.png" /></a>
-<a href="https://facebook.com/awebisam"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/awebisam/awebisam/main/fb.png" /></a>
-<br />
-https://www.hackerearth.com/@henokb2124
 ### Tools I am using right now:
 
 
