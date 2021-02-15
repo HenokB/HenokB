@@ -14,7 +14,6 @@
   [<img height="30" src = "https://github.com/HenokB/HenokB/blob/main/he.png">][HackerEarth]
   [<img height="30" src = "https://github.com/HenokB/HenokB/blob/main/hr.png">][HackerRank]
   
-  [![Linkedin](https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/henok-ademtew-7729b2183/)] [![HackerEarth](https://github.com/HenokB/HenokB/blob/main/he.png&link=https://www.hackerearth.com/@henokb2124)]
 
 <br />
 [Linkedin]: https://www.linkedin.com/in/henok-ademtew-7729b2183/
