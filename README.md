@@ -10,15 +10,13 @@
 #### I'm also here
 <p align="center">
 
-  <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />[Linkedin]
-  <img height="30" src = "https://github.com/HenokB/HenokB/blob/main/he.png">[HackerEarth]
-  <img height="30" src = "https://github.com/HenokB/HenokB/blob/main/hackerrank-logo.png">[HackerRank]
+  <a href=https://www.linkedin.com/in/henok-ademtew-7729b2183/><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href=https://www.hackerearth.com/@henokb2124/><img height="30" src = "https://github.com/HenokB/HenokB/blob/main/he.png"></a>
+  <a href=https://www.hackerrank.com/HenokB/><img height="30" src = "https://github.com/HenokB/HenokB/blob/main/hackerrank.png"></a>
   
 
 <br />
-[Linkedin]: https://www.linkedin.com/in/henok-ademtew-7729b2183/
-[HackerEarth]: https://www.hackerearth.com/@henokb2124
-[HackerRank]: https://www.hackerrank.com/HenokB
+
 
 ### Tools I am using right now:
 
