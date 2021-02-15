@@ -1,4 +1,4 @@
-![gif from giphy.com](https://giphy.com/gifs/animation-animated-o65WgXSDBVY1G?raw=true)
+![gif from giphy.com](https://media.giphy.com/media/o65WgXSDBVY1G/giphy.gifraw=true)
 # ሰላም | Hello there 👋. This is Henok Biadglign Ademtew
 
 ### I just like 0s and 1s.
