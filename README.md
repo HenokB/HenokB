@@ -10,12 +10,14 @@
 #### I'm also here
 <p align="center">
 
-  <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href = "https://www.linkedin.com/in/henok-ademtew-7729b2183/"/>
+  [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][Linkedin]
   [<img height="30" src = "https://github.com/HenokB/HenokB/blob/main/he.png">][HackerEarth]
   [<img height="30" src = "https://github.com/HenokB/HenokB/blob/main/hr.png">][HackerRank]
+  
+  [![Linkedin](https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/henok-ademtew-7729b2183/)] [![HackerEarth](https://github.com/HenokB/HenokB/blob/main/he.png&link=https://www.hackerearth.com/@henokb2124)]
 
 <br />
-[linkedin]: https://www.linkedin.com/in/henok-ademtew-7729b2183/
+[Linkedin]: https://www.linkedin.com/in/henok-ademtew-7729b2183/
 [HackerEarth]: https://www.hackerearth.com/@henokb2124
 [HackerRank]: https://www.hackerrank.com/HenokB
 
