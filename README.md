@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on ML.
 - 🌱 I’m currently learning Data Science.
 - 👯 I’m looking to collaborate, more of like learn on algorithms or TCS projects.
-- ⚡ Fun fact: I'm comprising a serious of notes on quantum chromodynamics
+- ⚡ Fun fact: I'm comprising a serious of notes on quantum chromodynamics.
 
 #### I'm also here
 <p align="center">
