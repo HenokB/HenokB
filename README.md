@@ -24,7 +24,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HenokB&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-### Tools I am using right now:
+# Tools I am using right now:
 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/HenokB/HenokB/main/vscode.png" />
