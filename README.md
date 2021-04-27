@@ -14,12 +14,15 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/HenokB">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HenokB&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HenokB&layout=compact&langs_count=5&theme=algolia"/>
+<a href="https://github.com/HenokB/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HenokB&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Henok's github stats" />
 </a>
-</p>
+<a href="https://github.com/HenokB/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenokB&layout=compact&theme=material-palenight" />
+</a>
+
+
 
 # Tools I am using right now:
 
