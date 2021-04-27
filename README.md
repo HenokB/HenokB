@@ -1,4 +1,4 @@
-# ሰላም | Hello there 👋. This is Henok Biadglign Ademtew
+# ሰላም | Hello there 👋.
 
 ### I just like 0s and 1s.
 
