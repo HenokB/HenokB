@@ -2,8 +2,6 @@
 
 ### I just like 0s and 1s.
 
-- 🔭 I’m currently working on ML.
-- 🌱 I’m currently learning Data Science.
 - 👯 I’m looking to work, more of like learn, on algorithms or TCS projects.
 - ⚡ Fun fact: I'm comprising a serious of notes on quantum chromodynamics.
 
@@ -16,14 +14,7 @@
 
 <br />
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/HenokB">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HenokB&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HenokB&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 # Tools I am using right now:
 
 
