@@ -14,6 +14,12 @@
 <a href="https://github.com/HenokB/github-readme-stats">
  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenokB&layout=compact&theme=material-palenight" />
+  <a href="https://github.com/jstrieb/github-stats">
+![](https://github.com/HenokB/github-stats/blob/master/generated/languages.svg)
+
+</a>
+  
+  
 </a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HenokB.HenokB)
