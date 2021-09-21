@@ -13,9 +13,8 @@
 </a>
 <a href="https://github.com/HenokB/github-readme-stats">
  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenokB&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/all-langs/?username=HenokB&layout=compact&theme=material-palenight" />
   <a href="https://github.com/jstrieb/github-stats">
-![](https://github.com/HenokB/github-stats/blob/master/generated/languages.svg)
 
 </a>
   
