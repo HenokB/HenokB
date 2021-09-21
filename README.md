@@ -2,8 +2,8 @@
 
 ### I just like 0s and 1s.
 
-- 👯 I’m looking to work on research based projects.
-- ⚡ Fun fact: I'm comprising a serious of notes on quantum chromodynamics.
+- 👯 I’m looking to work on research-based projects.
+- ⚡ Fun fact: I'm comprising a series of notes on quantum chromodynamics.
 
   
 ### ⚙️ &nbsp;GitHub Analytics
@@ -13,12 +13,9 @@
 </a>
 <a href="https://github.com/HenokB/github-readme-stats">
  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/all-langs/?username=HenokB&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenokB&layout=compact&theme=material-palenight" />
   <a href="https://github.com/jstrieb/github-stats">
 
-</a>
-  
-  
 </a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HenokB.HenokB)
