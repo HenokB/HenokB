@@ -2,8 +2,7 @@
 
 ### I just like 0s and 1s.
 
-- 👯 I’m looking to work on research-based projects.
-- ⚡ Fun fact: I'm comprising a series of notes on quantum chromodynamics.
+- ⚡ Fun fact: I prefer tea over coffee😁.
 
   
 ### ⚙️ &nbsp;GitHub Analytics
