@@ -1,4 +1,6 @@
-# ሰላም | Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Henok
+# ሰላም | Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Henok <a href="https://discord.gg/Henok A#4297">
+  <img align="left" alt="Henok's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
 
 ### I just like 0s and 1s.
 
