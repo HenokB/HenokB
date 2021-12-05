@@ -1,8 +1,8 @@
-# ሰላም | Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Henok <a href="https://discord.gg/Henok A#4297">
-  <img align="left" alt="Henok's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
+# ሰላም | Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Henok 
 
-### I just like 0s and 1s.
+### I just like 0s and 1s.  
+- 💼 Any CS research? feel free to reach out, [email](mailto:henokb2124@gmail.com) :)
+- 💬 Ask me about anything, i am happy to help;
 
 - ⚡ Fun fact: I prefer tea over coffee😁.
 
