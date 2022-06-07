@@ -1,4 +1,4 @@
-# ሰላም | Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Henok 
+# ሰላም | Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="19px width="19px">, I'm Henok 
 
 ### I just like 0s and 1s.  
 - 💼 Any CS research? feel free to reach out, [email](mailto:henokb2124@gmail.com) :)
