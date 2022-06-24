@@ -3,6 +3,7 @@
 ### I just like 0s and 1s.  
 - 💼 Any CS research? feel free to reach out, [email](mailto:henokb2124@gmail.com) :)
 - 💬 Ask me about anything, i am happy to help;
+- [Linkedin](https://www.linkedin.com/in/henok-b-ademtew-7729b2183/)
 
 - ⚡ Fun fact: I prefer tea over coffee😁.
 
