@@ -12,14 +12,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HenokB&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Henok's github stats" />
 </a>
 <a href="https://github.com/HenokB/github-readme-stats">
- 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenokB&layout=compact&theme=material-palenight" />
   <a href="https://github.com/jstrieb/github-stats">
-
 </a>
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HenokB.HenokB)
-
 <br/>
 
 
