@@ -7,7 +7,7 @@
 
   
 ### ⚙️ &nbsp;GitHub Analytics
-![Github stats](https://github-readme-stats.vercel.app/api?username=HenokB&show_icons=true&theme=dracula&hide=issues)
+![Github stats](https://github-readme-stats.vercel.app/api?username=HenokB&show_icons=true&theme=navy&hide=issues)
 
   
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HenokB.HenokB)
