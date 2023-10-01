@@ -4,11 +4,6 @@
 - 💼 Any CS research? feel free to reach out, [email](mailto:henokb2124@gmail.com) :)
 - 📌 Interested in NLP, ML and Deep learning research and projects.
 - ⚡ [Linkedin](https://www.linkedin.com/in/henok-b-ademtew-7729b2183/)
-
-  
-### ⚙️ &nbsp;GitHub Analytics
-![Github stats](https://github-readme-stats.vercel.app/api?username=HenokB&show_icons=true&theme=dark&hide=issues)
-
   
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HenokB.HenokB)
   
